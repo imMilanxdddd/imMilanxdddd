@@ -41,6 +41,7 @@ jobs:
           user: imMilanxdddd
           template: classic
           base: ""
+          config_display: columns
           config_timezone: Europe/Bratislava
           plugin_projects: yes
           plugin_projects_limit: 4
