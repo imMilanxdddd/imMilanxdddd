@@ -24,6 +24,7 @@ jobs:
 
           # Options
           user: imMilanxdddd
+          config_display: columns
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Bratislava
